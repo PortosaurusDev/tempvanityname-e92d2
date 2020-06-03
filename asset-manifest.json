@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://portosaurusdev.github.io/tempvanityname-e92d2/static/css/main.5f361e03.chunk.css",
+    "main.js": "https://portosaurusdev.github.io/tempvanityname-e92d2/static/js/main.8aed7f87.chunk.js",
+    "main.js.map": "https://portosaurusdev.github.io/tempvanityname-e92d2/static/js/main.8aed7f87.chunk.js.map",
+    "runtime-main.js": "https://portosaurusdev.github.io/tempvanityname-e92d2/static/js/runtime-main.abbf6ace.js",
+    "runtime-main.js.map": "https://portosaurusdev.github.io/tempvanityname-e92d2/static/js/runtime-main.abbf6ace.js.map",
+    "static/js/2.18e4ac39.chunk.js": "https://portosaurusdev.github.io/tempvanityname-e92d2/static/js/2.18e4ac39.chunk.js",
+    "static/js/2.18e4ac39.chunk.js.map": "https://portosaurusdev.github.io/tempvanityname-e92d2/static/js/2.18e4ac39.chunk.js.map",
+    "index.html": "https://portosaurusdev.github.io/tempvanityname-e92d2/index.html",
+    "precache-manifest.28c1b75afbed1db7806aa95891bb2922.js": "https://portosaurusdev.github.io/tempvanityname-e92d2/precache-manifest.28c1b75afbed1db7806aa95891bb2922.js",
+    "service-worker.js": "https://portosaurusdev.github.io/tempvanityname-e92d2/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "https://portosaurusdev.github.io/tempvanityname-e92d2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.18e4ac39.chunk.js.LICENSE.txt": "https://portosaurusdev.github.io/tempvanityname-e92d2/static/js/2.18e4ac39.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://portosaurusdev.github.io/tempvanityname-e92d2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abbf6ace.js",
+    "static/js/2.18e4ac39.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8aed7f87.chunk.js"
+  ]
+}
